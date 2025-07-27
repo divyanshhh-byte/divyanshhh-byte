@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+
 Focused on building analytics solutions <br>and streamlining operations through data.<br><br><br><br>Turn chaos into clarity—one dataset at a time.
 
 
