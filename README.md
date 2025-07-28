@@ -1,13 +1,36 @@
-## Hi there 👋
+<!--
+**YourUsername/YourUsername** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+-->
 
-Focused on building analytics solutions <br>and streamlining operations through data.<br><br><br><br>Turn chaos into clarity—one dataset at a time.
+### Hi there 👋
+
+I'm a recent college graduate with a **BBA in Business Intelligence & Analytics**. My passion lies in uncovering actionable insights from data and helping businesses make smarter decisions.
+
+#### 🧑‍💻 About Me
+- 📊 **Aspiring Data Analyst / Business Analyst**
+- 🎓 Bachelor of Business Administration in Business Intelligence & Analytics
+- 🐍 Most used language: **Python**
+- 🗃️ Also experienced with **SQL**
+- 🛠️ Skilled in **MS Excel** and **Power BI**
+
+#### 💡 What I Do
+- Data analysis & visualization
+- Data-driven problem solving
+- Building dashboards and reports
+- Translating business needs into analytics solutions
+
+#### 🌱 Currently
+- Seeking new opportunities as a **Data Analyst** or **Business Analyst**
+- Learning advanced data visualization and data modeling techniques
+
+#### 📫 How to Reach Me
+- divyanshpathak1236@gmail.com
+
+---
+
+*Let's collaborate on meaningful data projects!*
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/divyanshp055) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshpathak1236@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 
 ### 🔝 Top Contributed Repo
