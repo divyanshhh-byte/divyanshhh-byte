@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm a recent college graduate with a **BBA in Business Intelligence & Analytics**. My passion lies in uncovering actionable insights from data and helping businesses make smarter decisions.
+I'm a recent college graduate with a **BBA in Business Intelligence & Analytics**. My passion lies in uncovering insights from data and helping businesses make smarter decisions.
 
 #### 🧑‍💻 About Me
 - 📊 **Aspiring Data Analyst / Business Analyst**
